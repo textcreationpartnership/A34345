@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations about subscription, humbly submitted to the convocation, on behalf of the conformable clergy with some reflections on the late subscription, made by our dissenting brethren.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34345</idno>
+            <idno type="STC">Wing C5906</idno>
+            <idno type="STC">ESTC R18960</idno>
+            <idno type="EEBO-CITATION">11751826</idno>
+            <idno type="OCLC">ocm 11751826</idno>
+            <idno type="VID">48602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 486:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations about subscription, humbly submitted to the convocation, on behalf of the conformable clergy with some reflections on the late subscription, made by our dissenting brethren.</title>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Thirty-nine Articles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48602:1"/>
+            <pb n="5" facs="tcp:48602:1"/>
+            <p>Conſiderations ABOUT SUBSCRIPTION,</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:48602:2"/>
+            <pb facs="tcp:48602:2"/>
+            <p>Conſiderations ABOUT SUBSCRIPTION, Humbly Submitted to <hi>The Convocation, ON BEHALF Of the Conformable Clergy. With ſome Reflections on the late <hi>Subſcription,</hi> made by our Diſſent<g ref="char:EOLhyphen"/>ing Brethren.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:48602:3"/>
+            <pb n="1" facs="tcp:48602:3"/>
+            <head>
+               <hi>Conſiderations about Subſcription, humbly ſubmitted to the Convocation on behalf of the conformable Clergy,</hi> &amp;c.</head>
+            <p>ALthough our Learned Divines have different Apprehenſions about the moſt convenient time for ſetling a <hi>Firm and Laſting Union</hi> a<g ref="char:EOLhyphen"/>mongſt Proteſtants, and about what Condeſcenſions are to be made by us in Order thereunto; whether the Diſſenters muſt in the Firſt place be conſulted, or whether without knowing their thoughts, we give them Terms, <hi>&amp;c.</hi> Yet as to the <hi>Union</hi> it ſelf, there is a general readineſs on our Parts, and notwithſtanding the <hi>Warm</hi> Reflections of the Author of <hi>Vox Cleri,</hi> it muſt be yielded that there are good Reaſons why the <hi>Convocation</hi> ſhould know, whether any thing leſs than the ſubverting the Foundations of our Conſtitution will ſatisfie the Diſſenters, and what that is?</p>
+            <p>The <hi>Convocation</hi> is to Act the Part of a <hi>Wiſe,</hi> as well as <hi>Compaſſionate</hi> Phyſitian, to heal if poſſible, the wounds, which have been made in the Church by the Diviſion; and it is the <hi>Diſſenting,</hi> that is the <hi>Sick</hi>
+               <pb n="2" facs="tcp:48602:4"/> Party, which muſt be diſcourſed with before the Phy<g ref="char:EOLhyphen"/>ſitian can ſafely <hi>Preſcribe.</hi>
+            </p>
+            <p>It's well known what may be done by the Church towards a Union, but whether what we offer will ef<g ref="char:EOLhyphen"/>fectually reduce Diſſenters, we are not ſure.</p>
+            <p>Tho we abound with choice Medicines, yet want<g ref="char:EOLhyphen"/>ing an <hi>Ovietan,</hi> we can never know whether this or the other is moſt Proper, till the Nature of the Di<g ref="char:EOLhyphen"/>ſeaſe be throughly underſtood; and to that end, the firſt thing neceſſary is an enquiry after the Diſſenters thoughts, about what it is they Judge a Grievance, and what it is that will relieve them.</p>
+            <p>But however theſe things Iſſue, what doth more nearly touch the <hi>Church</hi> it ſelf, muſt in all Debates in both Houſes of <hi>Convocation</hi> have the Preference. We muſt neither Hurt nor Neglect our own Conſtitution; nor muſt the <hi>Church</hi> in hopes of a Prodigals Return, lay aſide thoſe Motherly Compaſſions ſhe hath for her Obedient Sons. What<g ref="char:EOLhyphen"/>ever <note place="margin">
+                  <hi>Biſhop of</hi> Worce<g ref="char:EOLhyphen"/>ſters <hi>Unreaſ. Sep. Pref.</hi> pag. 89.</note> is offenſive to any of them, de<g ref="char:EOLhyphen"/>ſerves the firſt Conſideration: For a Fa<g ref="char:EOLhyphen"/>ction in the Church doth more endanger it than Exter<g ref="char:EOLhyphen"/>nal Oppoſition. Seeing then there have been ſome Un<g ref="char:EOLhyphen"/>happy Wranglings amongſt our ſelve, ſuch Odd con<g ref="char:EOLhyphen"/>teſts, that we have had the Ill-Luck of being Repreſented as a Church divided into at leaſt two oppoſite Parties, into
+<pb n="3" facs="tcp:48602:4"/> a more <hi>Moderate,</hi> and <hi>Violent</hi> one, ſay ſome, a <hi>Melancthonian</hi> and <hi>Calvinian,</hi> as Doctor <hi>Heylin;</hi> and as others Phraſe it, <hi>True Sons of the</hi> Church, and <hi>Grindalizers,</hi> 'twill be the chief care of the Con<g ref="char:EOLhyphen"/>vocation to Heal this Diſtemper.</p>
+            <p>And whereas there have been different Opini<g ref="char:EOLhyphen"/>ons about the <hi>Senſe,</hi> in which we muſt ſubſcribe, for which the Diſſenters have oft boldly Upbraided us, to Solve what is matter of Difficulty, it is the proper Work of the <hi>Convocation</hi> to make the firſt ſtep.</p>
+            <p>The thing in Controverſie amongſt our ſelves is, <hi>Whether our Subſcription be expreſſive of our Aſſent unto, and Belief of the Truth of every one of the Subſcribed Articles,</hi> or <hi>only an Aſſurance,</hi> that <hi>for the ſake of Peace we will not contradict,</hi> nor <hi>oppoſe them.</hi>
+            </p>
+            <p>The Learned <hi>Chilling worth</hi> declares his Senti<g ref="char:EOLhyphen"/>ments thus: <q rend="inline">For the Church of <hi>England</hi> I am perſwaded that the conſtant Doctrine of it is ſo Pure and Orthodox, that whoſoever believes it, and lives according to it, ſhall be undoubtedly Saved, [which <hi>is as much as to ſay,</hi> He <hi>believes Salvation may be had in our Church]</hi> and that there is no Error in it, <note place="margin">Preface to the Author of Charity maintain<g ref="char:EOLhyphen"/>ed. §. 40.</note> which may neceſſitate, or war<g ref="char:EOLhyphen"/>rant any Man to <hi>Diſturb</hi> the
+<pb n="4" facs="tcp:48602:5"/> 
+                  <hi>Peace,</hi> or Renounce the Communion of it. [To which He adds] this in my Opinion is all intend<g ref="char:EOLhyphen"/>ed by <hi>Subſcription.</hi>
+               </q>
+            </p>
+            <p>A Subſcription in this ſenſe may be without an Aſſent to every Article as <hi>True,</hi> yea with the Be<g ref="char:EOLhyphen"/>lief that ſome are <hi>Falſe;</hi> if not ſo falſe and Erro<g ref="char:EOLhyphen"/>neous as to neceſſitate or warrant a Man to diſturb the Peace of the Church, and renounce it's Com<g ref="char:EOLhyphen"/>munion. Nor doth the Excel<g ref="char:EOLhyphen"/>lent <note place="margin">
+                  <hi>The part of a Letter of the</hi> Primates <hi>about</hi> Heylins <hi>Hiſtory of the Sabbath.</hi>
+               </note> Arch-Biſhop <hi>Uſher</hi> look on all the 39 Articles to be receiv<g ref="char:EOLhyphen"/>ed as Articles of Faith. <q rend="inline">He that would have every thing which is put into the <hi>Articles of Religion</hi> (agreed up<g ref="char:EOLhyphen"/>on in the Synod <hi>for the avoiding diverſity of Opinions,</hi> and <hi>for the maintainance</hi> of <hi>Peace,</hi> and <hi>Uniformity in the Church)</hi> to be held for an <hi>Article of the Faith,</hi> ſhould do well to tell us, whether he has as yet admitted <hi>the Book</hi> of <hi>the Ordination of Biſhops</hi> and the <hi>two Volumes of Homilies</hi> into his <hi>Creed;</hi> for ſure I am He ſhall find theſe received in the Arti<g ref="char:EOLhyphen"/>cles of Religion agreed upon in the Synod held at <hi>London</hi> 1562.</q>
+            </p>
+            <p>The Learned Primate doth in this place ſay enough to Eſtabliſh that di<g ref="char:EOLhyphen"/>ſtinction <note place="margin">Schiſm Guarded. §. 1. c. 11.</note> of ſubſcribing to the Arti<g ref="char:EOLhyphen"/>cles,
+<pb n="5" facs="tcp:48602:5"/> as <hi>Articles of Peace,</hi> and not as <hi>Articles of Faith,</hi> which by his moſt Learned Succeſſor Arch-Biſhop <hi>Bramhall,</hi> is more fully explained. <q rend="inline">We do not (ſaith he) ſuffer any Man to reject the 39 Arti<g ref="char:EOLhyphen"/>cles of the Church of <hi>England</hi> at his pleaſure, yet neither do we look upon them as Eſſentials of Saving Faith, or <hi>Legacies of Chriſt,</hi> and <hi>of his Apo<g ref="char:EOLhyphen"/>ſtles:</hi> But in a mean, as Pious Opinions fitted for the Preſervation of Unity; NEITHER DO WE OBLIGE ANY MAN TO BELIEVE THEM, BUT ONLY NOT TO CONTRADICT THEM.</q>
+            </p>
+            <p>If the Injunction of Subſcription be only thus, 'twill afford great eaſe to the minds of many wor<g ref="char:EOLhyphen"/>thy Divines of our Church, 'twill remove the <hi>Bone of Contention,</hi> that hath been amongſt our ſelves, and for ever prevent the Diſſenters reproach<g ref="char:EOLhyphen"/>ing us for ſubſcribing in a ſence we do not believe to be good.</p>
+            <p>But that this is the ſence of the <hi>Church,</hi> doth not yet appear by any thing ſhe hath declared; and, as there are many Learned Men for this ſence, ſo there are many as Learned of the contrary Opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>The Learned Doctor <hi>Stillingfleet,</hi> now Biſhop of <hi>Worceſter,</hi> in his Propoſals for Union, ſuppoſeth
+<pb n="6" facs="tcp:48602:6"/> the Subſcription to be <hi>Abſolute,</hi> and offereth as an Expedient to accommodate the Diffe<g ref="char:EOLhyphen"/>rence, a Mitigation as to the <hi>manner</hi> 
+               <note place="margin">
+                  <hi>Preface to the Unreaſon. of Separ.</hi> p. 91.</note> 
+               <hi>of Subſcription,</hi> which he ſuppoſeth may be done by an <hi>Abſolute</hi> Subſcrip<g ref="char:EOLhyphen"/>tion to all thoſe <hi>Articles,</hi> which concern the <hi>Doctrine of the true Chriſtian Faith, and the Uſe of the Sacraments,</hi> and a <hi>ſolemn Promiſe under their Hand,</hi> or <hi>Subſcription</hi> of <hi>Peaceable Submiſſion,</hi> as to the reſt, ſo as not to <hi>oppoſe,</hi> or <hi>contradict</hi> them, either in Preaching, or Writing.</p>
+            <p>The Mitigation, as to the <hi>manner of Subſcription,</hi> is by making the Subſcription in the ſame ſence Arch-Biſhop <hi>Bramhall</hi> doth take our Subſcription at this time to be, but this great Perſon by offering it as an Expedient for the <hi>Diſſenters</hi> relief, muſt look on our Subſcription as <hi>Abſolute</hi> to all the Articles, which muſt therefore be received as <hi>True,</hi> and the <hi>Title</hi> given theſe Articles declare the ſame, in ſaying, that they were <hi>Agreed upon</hi> for the <hi>avoiding of Diverſities of Opinions,</hi> which cannot be, if notwithſtanding the Subſcription, Men may conſiſtently therewith con<g ref="char:EOLhyphen"/>tinue to be of divers Opinions. Beſides, King <hi>James</hi> the Firſt, in his <hi>Declaration</hi> ſet before the Articles, is poſitive, that <q rend="inline">
+                  <hi>no Man</hi> hereafter ſhall either Print, or Preach, to <hi>draw the</hi> Article aſide any way, but
+<pb n="7" facs="tcp:48602:6"/> ſhall <hi>ſubmit to it</hi> in the <hi>plain</hi> and <hi>full meaning</hi> thereof; and ſhall NOT PUT HIS OWN SENSE, or COMMENT to be <hi>the meaning of the Article,</hi> but <hi>ſhall take</hi> it in the <hi>Literal</hi> and <hi>Grammatical</hi> ſenſe.</q> And my Lord Chief Juſtice <hi>Coke</hi> Reports, that the Judges of the <hi>Kings-Bench</hi> would not admit of a Subſcription with this <hi>Addition,</hi> [ſo <hi>far as agreeable</hi> to <hi>the Word of God,</hi> and <hi>Law of the Land,]</hi> becauſe it contradicted the end of the Injunction, which was to prevent Diverſities of Opinion.</p>
+            <p>Moreover, according to the common uſage of the word <hi>[Subſcribe]</hi> it ſignifies <hi>Aſſent</hi> and <hi>Conſent</hi> unto; <hi>Allowance,</hi> and <hi>Approbation</hi> of what is <hi>Subſcrib<g ref="char:EOLhyphen"/>ed.</hi>
+            </p>
+            <p>Thus in the Ancient Councils, the Fathers expreſ<g ref="char:EOLhyphen"/>ſed their <hi>Aſſent, Allowance,</hi> or <hi>Confirmation,</hi> by ſub<g ref="char:EOLhyphen"/>ſcribing their Names and <hi>Affixing</hi> the Sign of the <hi>Croſs.</hi> In <hi>Charters</hi> of Donations of Lands and Grants of Priviledges unto <hi>Abbies,</hi> or <hi>Convents,</hi> our Kings, Nobles, and Biſhops <hi>Subſcribed,</hi> and with them <hi>Subſcripſi, Conſenſi, Favi, Confirmavi,</hi> &amp;c. were Terms Aequipollent; and Anciently the <hi>Competentes</hi> to ex<g ref="char:EOLhyphen"/>preſs their <hi>conſenting</hi> to Baptiſm and Chriſtian Re<g ref="char:EOLhyphen"/>ligion <hi>Subſcribed</hi> their Names and were therefore called <hi>Subſcripti.</hi>
+            </p>
+            <pb n="8" facs="tcp:48602:7"/>
+            <p>It is a generally received Opinion, that whether the <hi>Subſcriber</hi> doth expreſly mention the words <hi>Aſ<g ref="char:EOLhyphen"/>ſent, Conſent, Allowance,</hi> or <hi>Approbation,</hi> or not, their meaning is included in the Subſcription, which is but a <hi>Declaration</hi> thereof.</p>
+            <p>The great end of Subſcriptions to Articles of Re<g ref="char:EOLhyphen"/>ligion is to ſecure <hi>Truth,</hi> as well as <hi>Peace</hi> amongſt Chriſtians, and the Subſcription imports Aſſent unto, and <hi>Allowance</hi> of the Article as <hi>True.</hi>
+            </p>
+            <p>Subſcription (ſaith our great Ca<g ref="char:EOLhyphen"/>ſuiſt, the Learned Biſhop <hi>Taylor)</hi> 
+               <note place="margin">
+                  <hi>Duct. Dubit.</hi> lib. 4. c. 4. r. 23. §. 1. 2. 4.</note> is undoubtedly an <hi>Atteſtation,</hi> or ſigni<g ref="char:EOLhyphen"/>fication of Aſſent, Allowance and Approbation. <q rend="inline">
+                  <hi>Whoever ſubſcribes,</hi> He <hi>doth actually approve of the Articles over-written,</hi> that he does <hi>at that time believe them to be ſuch as it is ſaid</hi> they are; TRUE, if they only ſay they are <hi>True; Uſefull,</hi> if they pretend alſo to <hi>Uſefulneſs; Neceſſary,</hi> if it be affirmed that they are <hi>Neceſſary.</hi> If the Sub<g ref="char:EOLhyphen"/>ſcriber believes not this, he by Hypocriſie ſerves the ends of Publick Peace, and his own Prefer<g ref="char:EOLhyphen"/>ment.</q>
+            </p>
+            <q>To the enquiry, whether it can be Lawful for any Man to Subſcribe what he doth not believe to be True, giving his Hand to Publick Peace and keeping his Conſcience for God; <hi>The</hi>
+               <pb n="9" facs="tcp:48602:7"/> 
+               <hi>Biſhop tells us,</hi> The Anſwer is eaſie, if Subſcrip<g ref="char:EOLhyphen"/>tion ſignifie Approbation; for in that caſe it is <hi>Hypocriſie</hi> and a denying to confeſs with the <hi>Mouth what we believe with the Heart.</hi>—In Subſcription to Articles of Confeſſion, or Cen<g ref="char:EOLhyphen"/>ſure of Propoſitions as Heretical, every Eccleſi<g ref="char:EOLhyphen"/>aſtick doth it for himſelf, and if he Aſſents not, nor Conſents, he muſt by ſubſcribing Declare he doth. Let the Articles be made with as great Latitude of ſenſe as they can, and ſo that Subſcriptions be made to <hi>Forms</hi> of Words, let the <hi>ſubſcribers</hi> underſtand them in what ſenſe they pleaſe, which the Truth of God will ſuffer, and the words can be capable. This is the laſt Remedy, but the worſt; it hath in it ſomething of <hi>Craft,</hi> but very little of <hi>Ingenuity;</hi> and if it can ſerve the ends of Peace, or of External Charity, it cannot ſerve the ends of <hi>Truth, Holineſs,</hi> and Chriſtian <hi>Simplicity.</hi>
+            </q>
+            <p>If the Words admit of various Senſes, ſome True, ſome Falſe, the Queſtion made by the Sub<g ref="char:EOLhyphen"/>ſcriber muſt be, <hi>what is the Impoſers</hi> ſenſe, for to that by ſubſcribing we Aſſent. If the <hi>Intention of the SUPERIOR be to require our Aſſent to be teſti<g ref="char:EOLhyphen"/>fied by Subſcription;</hi> he that ſubſcribes doth Profeſs his Aſſent; and whatever he thinks himſelf, it is
+<pb n="10" facs="tcp:48602:8"/> the intention of the Impoſer, that qualifies the Subſcription: He that Subſcribes muſt do it to thoſe purpoſes, and in that ſenſe, and ſignifi<g ref="char:EOLhyphen"/>cation of things, which the Supream Power in<g ref="char:EOLhyphen"/>tends in his Commanding it.</p>
+            <p>Theſe Reaſonings appear to many Wiſe and Good Men of our Church very convincing, who comparing their ſubſcriptions with the common ſenſe of the Impoſers, are ſtartled, and at a loſs what to think or ſay of it, on which occaſion ſome Men, whoſe Zeal hath by far exceeded their Judgments, have been too intemperate in Reflect<g ref="char:EOLhyphen"/>ing on one another; all which Reflections, for the ſake of the Churches Peace, we wiſh may be Eter<g ref="char:EOLhyphen"/>nally Buried in Oblivion.</p>
+            <p>We will therefore only mention what is matter of GRIEF to ſome judicious and good Men of our Communion, for on this account ſeveral when they fixedly conſider that their ſubſcription is the atteſtation of Aſſent unto every thing they ſub<g ref="char:EOLhyphen"/>ſcribe, are greatly afflicted in their thoughts about it.</p>
+            <p>There are ſome, who by their Subſcription to the 4 Controverted Articles, intend no more than a ſolemn Promiſe of <hi>Peaceable Submiſſion,</hi> not determining one way or other about the Difference there is between
+<pb n="11" facs="tcp:48602:8"/> a Biſhop and a Presbyter. Though they ſubſcribed the Articles, yet they never took the <hi>Book of Order<g ref="char:EOLhyphen"/>ing Biſhops, Prieſts</hi> and <hi>Deacons</hi> (as Arch-Biſhop <hi>Uſher obſerves)</hi> in their <hi>Creed,</hi> nor did they think themſelves by their Subſcription obliged to a ſtrict, Rigorous and conſtant obſervation of every Ceremony, <hi>&amp;c.</hi> There are others no way Inferiour to theſe for Learning, or Integrity, who, tho they have no ſcruple about matters of Church Government, or Ceremony, have as many concerning Points of another Nature, to which they ſubſcribe in <hi>Chilling<g ref="char:EOLhyphen"/>worths</hi> and <hi>Bramhals</hi> ſenſe.</p>
+            <p>Theſe Perſons by Preaching, Printing, or other<g ref="char:EOLhyphen"/>wiſe will never contradict, or oppoſe the <hi>ſcrupled</hi> Articles, but cannot bear the thoughts, that their <hi>Subſcription</hi> ſignifie their Aſſent unto them as <hi>True.</hi> I will only Inſtance in one or two.</p>
+            <p>
+               <hi>Art.</hi> 8. <q rend="inline">The three Creeds, <hi>Nice</hi> Creed, <hi>Athana<g ref="char:EOLhyphen"/>ſius</hi>'s Creed, and that which is commonly called the <hi>Apoſtles Creed,</hi> ought <hi>throughly</hi> to be <hi>received</hi> and <hi>believed.</hi>
+               </q>
+            </p>
+            <p>Theſe words [THROUGHLY <hi>to be received and believed]</hi> ſeem to ſignifie nothing leſs than that every Part, Branch, Article and Clauſe of every one of theſe three Creeds muſt be received and <hi>believed,</hi> ſo that although the Word <hi>Believe</hi> is not
+<pb n="12" facs="tcp:48602:9"/> ſet before every Article in any one Creed, yet as the Learned Biſhop <hi>Pearſon</hi> Obſerves, <q rend="inline">This Word [I <hi>Believe]</hi> is not to be <note place="margin">
+                     <hi>On the Creed.</hi> p. 1.</note> imagined to ſtand only where it is expreſſed, but to be carried through the whole Body of the Confeſſion, for, tho it be but twice actually Rehearſed [in the Apoſtles Creed,] yet muſt we conceive it virtually prefixed to the Head of every Article;—Neither is it to be joyned with every compleat Article <hi>only,</hi> but where any Article is not a ſingle Verity, but <hi>comprehenſive,</hi> there it is to be looked upon as affixed to every Part, or ſingle Truth contained in that Article,—ſo that this <hi>Credo</hi> rightly conſidered multiplieth it ſelf to no leſs than a double number of the Articles, and will be found at leaſt twenty four times in the CREED.</q>
+            </p>
+            <p>What this Reverend Prelate, to the great ſatis<g ref="char:EOLhyphen"/>faction of our Church, ſaith of the Apoſtles <hi>Creed,</hi> may for the ſame reaſon be ſpoken of the <hi>Athana<g ref="char:EOLhyphen"/>ſian,</hi> and until the Church declares otherwiſe we muſt take the Minatory Clauſes for Parts of the Creed, eſpecially it is in the very Body of the Creed it ſelf, <hi>[He therefore that will be ſaved muſt think</hi> THUS <hi>of the Trinity.]</hi> For this Clauſe, as e<g ref="char:EOLhyphen"/>very other Part in the Body of the <hi>Creed</hi> is every
+<pb n="13" facs="tcp:48602:9"/> way guarded with a <hi>Minatory</hi> Sentence. The begin<g ref="char:EOLhyphen"/>ing of the Creed is thus; <hi>[Whoſoever will be ſaved, before all things it is neceſſary that he hold the Catholick Faith;</hi> which <hi>Faith, except every one do keep Whole and Unde<g ref="char:EOLhyphen"/>filed, without doubt he ſhall Periſh everlaſtingly.]</hi> Then follows the Doctrine of the <hi>Trinity</hi> and <hi>Incarnation,</hi> and in the cloſe of the Creed it is <hi>[This is the Ca<g ref="char:EOLhyphen"/>tholick Faith,</hi> which <hi>except a Man believe Faithfully, he cannot be ſaved.]</hi>
+            </p>
+            <p>Between theſe two clauſes in the Body of the Creed, comes in this, <hi>viz. [Whoever will be ſaved muſt think</hi> THUS <hi>of the Trinity.]</hi>
+            </p>
+            <p>Who then can conſider how often this Minato<g ref="char:EOLhyphen"/>ry Sentence is inſerted in the Creed even in the be<g ref="char:EOLhyphen"/>ginning, the Body and cloſe of it, and not think it a Part? Eſpecially conſidering that in the Ru<g ref="char:EOLhyphen"/>brick, the Title of <hi>Athanaſius</hi>'s Creed is given to the whole <hi>Qui conque vult;</hi> thereby making theſe clauſes and branches a <hi>Part of</hi> it, to which we ſubſcribe by our Subſcription to this Article; and it cannot be denyed, that theſe clauſes exclude from Salva<g ref="char:EOLhyphen"/>tion, not only thoſe? who reject the whole, but all that do reject any one clauſe that is about the Trinity, whoever thinks not of it as there ex<g ref="char:EOLhyphen"/>preſſed cannot be ſaved, and we by Subſcription to this Article approve of this Damning clauſe; which
+<pb n="14" facs="tcp:48602:10"/> conſideration ſhould (methinks) move <hi>Vox Clexi</hi> to deſire eaſe in this matter; for <hi>Pag.</hi> 32. He openly declares that he thinks it not neceſſary to Salvation that every Man ſhould believe, that Article of the <hi>Proceſſion of the Holy Ghoſt,</hi> which yet is in this Creed; and by another Article near it, Whoever will be ſaved muſt believe the Proceſſion, and every other particular of this Creed concerning the Trinity, whereby I am afraid our ſeverity will light not only on the <hi>Greek Church,</hi> but on Thouſands of our own Communion, who, though they are not <hi>Antitrinitarians,</hi> for they believe in God the Father, God the Son, and God the Holy Ghoſt, do not under<g ref="char:EOLhyphen"/>ſtand the controverſie about the Proceſſion, nor ſome other paſſages in <hi>Athanaſius</hi> his explications.</p>
+            <p>Whatever is the Latitude of ſome, the perplexi<g ref="char:EOLhyphen"/>ties occaſioned by this Article unto others of our Church, who have merited greatly of Her, can<g ref="char:EOLhyphen"/>not but move a compaſſionate Convocation to offer ſomewhat for their Relief.</p>
+            <q>
+               <bibl>Article 18. Of <hi>Obtaining Salvation</hi> only <hi>by the</hi> Name <hi>of Chriſt.</hi>
+               </bibl> They alſo are to be had ACCURSED, that preſume to ſay, that every Man ſhall be ſaved
+<pb n="15" facs="tcp:48602:10"/> by the Law, or Sect which he profeſſeth, ſo that he be diligent to frame his Life according to that Law, and the Light of Nature. For Holy Scripture doth ſet out unto us, <hi>only</hi> the NAME of Jeſus Chriſt, whereby Men muſt be ſaved.</q>
+            <p>As to this Article it is moſt certain, that amongſt the <hi>Engliſh</hi> Gentry, who have had their Education in our Church, and are Men of great Learning, good ſenſe and Sobriety, there are many worthy Perſons, who cannot entertain too reſtrained thoughts of Gods Merciful Nature, but are of Opinion, that ſuch as <hi>Live without the Law, ſhall</hi> be Judged without the Law, that every one <hi>Fear<g ref="char:EOLhyphen"/>ing God, and working Righteouſneſs in what Nation ſo<g ref="char:EOLhyphen"/>ever ſhall be accepted of God;</hi> that the <hi>Efficacious Vertue of Chriſts Death is of larger extent than the knowledge of his Name,</hi> and that <hi>more are ſaved by him,</hi> than <hi>expli<g ref="char:EOLhyphen"/>citly believe in him:</hi> Beſides there are ſome great Di<g ref="char:EOLhyphen"/>vines in the Reformed Churches abroad as well as of our own Communion, whoſe Charity cannot be comprehended within the narrow Limits of <hi>Calvi<g ref="char:EOLhyphen"/>niſtic</hi> Rigor. Theſe think charitably of ſome <hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> of a <hi>Socrates,</hi> an <hi>Antonine,</hi> a <hi>Cicero,</hi> &amp;c. whoſe <hi>Morals</hi> infinitely exceed thoſe of ſome Cenſorious and Debauched Chriſtians, whom at their Fune<g ref="char:EOLhyphen"/>rals we pronounce Bleſſed.</p>
+            <pb n="16" facs="tcp:48602:11"/>
+            <p>But by a ſtrict ſubſcription we muſt not only curſe the Heathen, but all our Gentry, and Forreign as well as our own Divines, who hope well of the Heathen.</p>
+            <p>There hath been an Intimation of this given by a very worthy Perſon, <note place="margin">Pag. 13, 14.</note> a Miniſter in the Country in his Letter to a Member of the Convocation, and it is done with much Warineſs and Caution, and it's hoped 'twill meet with a fairer entertain<g ref="char:EOLhyphen"/>ment than <hi>Vox Cleri</hi> hath given it, but leſt through the Diſtempers of ſome Men, it ſhould fail of the deſired ſucceſs, it's thought neceſſary to ſend this <hi>Humble Supplicant</hi> after it.</p>
+            <p>I know it's a very tender Point, and we liv<g ref="char:EOLhyphen"/>ing in a very Querulous Age, the Reaſon for a more Gentle Handling it, is the ſtronger. How<g ref="char:EOLhyphen"/>ever, ſeeing our greateſt danger in this particu<g ref="char:EOLhyphen"/>lar was likely to ariſe from the Clamours of our <hi>Diſſenting Brethren,</hi> who now are as deep<g ref="char:EOLhyphen"/>ly Plunged into Perplexities of this Nature as the moſt ſcrupulous ſubſcriber of our own Communi<g ref="char:EOLhyphen"/>on, the chief, if not only Reaſon againſt our ap<g ref="char:EOLhyphen"/>pearing for Relief in this matter, is over.</p>
+            <p>Our Diſſenting Brethren have been very ſevere upon us, charging us as though our ſubſcriptions had
+<pb n="17" facs="tcp:48602:11"/> been unconſcionably Raſh, becauſe they were to Articles, which we could not take into our Creed, and ſubſcribed unto them only as unto Articles of Peace and Concord: To this diſtinction their moſt Learned Defender hath given many an an<g ref="char:EOLhyphen"/>gry Anſwer, and very lately in his <hi>Engliſh Non<g ref="char:EOLhyphen"/>conformity</hi> thus writes of it: <q rend="inline">Some Brains will <note place="margin">p. 47.</note> be cheated with a meer Noiſe of Words, as Birds with a Whiſtle: We deny not but <hi>Peace</hi> is one of the ends of the Impoſitions: But the Queſtion is, what are the <hi>means,</hi> or whe<g ref="char:EOLhyphen"/>ther they will take it for Conformity to Pro<g ref="char:EOLhyphen"/>miſe [I <hi>will live Peaceably]</hi> or [I <hi>Aſſent I ſhould live in Peace].</hi> Are you not bound in Or<g ref="char:EOLhyphen"/>der to Peace to <hi>Aſſent,</hi> and <hi>Conſent to all things in the Books?</hi> Say <hi>[I Aſſent that ſome things are True and Good, and ſome things Falſe and Bad,</hi> which <hi>yet for Peace I will uſe]</hi> and Try how it will be taken.</q>
+            </p>
+            <p>To whom I Anſwer. 1. That according to your own Doctrine, if the Church, that con<g ref="char:EOLhyphen"/>tinues the Impoſition, allows of our Diſtinction it is good, and though the whole ſtrength of your great Book turn on this Hinge, it imme<g ref="char:EOLhyphen"/>diately dwindles into nothing. And ſeeing the <hi>Church</hi> hath not been unacquainted with the Opi<g ref="char:EOLhyphen"/>nion
+<pb n="18" facs="tcp:48602:12"/> of <hi>Chillingworth, Uſher,</hi> and <hi>Bramhall,</hi> and that their Opinion is cloſed with by many great Divines amongſt our Clergy; may we not Pre<g ref="char:EOLhyphen"/>ſume that the Churches Silence in the matter is an Allowance. I am perſwaded that there are many Honeſt and Worthy Perſons, ſome of your own Friends eſpecially, who ſcruple the Cere<g ref="char:EOLhyphen"/>monies more than any other thing, who take thus much for granted.</p>
+            <p>If you ſay they are miſtaken, though I won't be poſitive, I am afraid ſo too;. and therefore preſs for ſome Redreſs. However, when you paſs Cenſure on them, you muſt remember that it's not for an <hi>Equivocal Subſcription,</hi> but their <hi>miſtaking</hi> the <hi>Churches Sence.</hi> But 2. you, and your Party, Dear, Brother, of all Men in the World, ſince your own Subſcription ſhould not complain of ours. Your Caſe and ours is now the ſame. Though we have run farther than you by our Subſcription, yet you have followed us in the ſame Path, and have fallen on ſome of the ſame Rocks, and have got a great way within the ſame <hi>Labyrinth</hi> and need as much the help of the <hi>Convocation</hi> and <hi>Parliament</hi> to extricate your ſelves as any of our Communion do.</p>
+            <pb n="19" facs="tcp:48602:12"/>
+            <p>I will endeavour to clear thus much by making ſome Refle<g ref="char:EOLhyphen"/>ctions <note place="margin">R. B's <hi>Senſe of the Sub<g ref="char:EOLhyphen"/>ſcribed Articles of Religion.</hi> p. 3.</note> on two or three of your Subſcribed Articles. <q rend="inline">
+                  <bibl>
+                     <hi>Art.</hi> 3. HE WENT DOWN INTO HELL]</bibl> that is, into <hi>Hades,</hi> the State of ſeparated Souls: Of which <hi>See</hi> Arch-Biſhop <hi>Uſhers</hi> Anſwer to the <hi>Jeſuits.</hi>
+               </q>
+            </p>
+            <p>This Article you cannot Subſcribe without an <hi>Expoſition,</hi> and your Expoſition ſuch as makes your ſenſe more doubtful. For though by <hi>Hell</hi> you underſtand <hi>Hades,</hi> by which you mean, the <hi>State of ſeparated Souls;</hi> yet it is as delivered by Arch-Biſhop <hi>Uſher,</hi> who gives ſuch different accounts of the ſignification of <hi>Hades,</hi> that we cannot tell but by <hi>Hell</hi> you may intend <hi>Heaven;</hi> for <hi>Hades</hi> as it imports the State of ſeparate Souls is by ſome in <hi>Uſher</hi> uſed to ſignifie <hi>Heaven.</hi>
+            </p>
+            <p>In the Eccleſiaſtical Uſe of the Word, <hi>Hell</hi> (ſaith <hi>Uſher)</hi> 
+               <note place="margin">
+                  <hi>Anſwer to the Jeſuits Challenge of</hi> Limbus Patrum, p. 316.</note> is extended to expreſs the <hi>Greek Hades,</hi> and the Latin <hi>Inferi,</hi> and whatſoever is contained under them, and ſo ſignifies the place of all the Dead in common, and not of the Wicked only.—<q rend="inline">Now as the com<g ref="char:EOLhyphen"/>mon condition of the Dead is conſiderable three
+<pb n="20" facs="tcp:48602:13"/> manner of ways, either in reſpect of the <hi>Body ſepa<g ref="char:EOLhyphen"/>rated from the Soul,</hi> or of the <hi>Soul</hi> ſeparated <hi>from the Body;</hi> or of the WHOLE MAN indefinitely conſidered in this State of ſeparation: So do we find the word <hi>Hades</hi> to be applied by the Antient <hi>Greek</hi> interpreters of the <hi>Old Teſtament</hi> to the common ſtate and place of the Body ſe<g ref="char:EOLhyphen"/>vered from the Soul: By the <hi>Heathen Greeks,</hi> to the common ſtate and place of the Soul ſe<g ref="char:EOLhyphen"/>vered from the Body, and by both of them to the common ſtate of the Dead.</q>
+            </p>
+            <p>But you in your <hi>Expoſition</hi> terminating your <hi>ſenſe</hi> to the ſtate of <hi>ſeparate Souls</hi> as explicated by <note place="margin">p. 360.</note> the Arch-Biſhop; we will ſee what it is that he ſaith of it; and it is thus, <q rend="inline">With Forreign Au<g ref="char:EOLhyphen"/>thors the word <hi>Hades</hi> ſignifies ordinarily the <hi>Common Lodge</hi> of Souls <hi>ſeparated from their Bodies,</hi> whether the <hi>particular Place aſſigned unto each of them be con<g ref="char:EOLhyphen"/>ceived to be an Habitation of</hi> BLISS, or of MISE<g ref="char:EOLhyphen"/>RY.—</q> To heap up many Teſtimonies out of <note place="margin">p. 364.</note> of Heathen Authors to prove that in their underſtanding, All Souls went to <hi>Hades,</hi> &amp; received there either PUNISHMENT, or REWARD, ac<g ref="char:EOLhyphen"/>cording to the Life they lived in this World; would be but a needleſs work.—<q rend="inline">If any Man deſire to inform himſelf herein, he may
+<pb n="21" facs="tcp:48602:13"/> repair to <hi>Plutarchs</hi> Conſolatory Diſcourſe writ<g ref="char:EOLhyphen"/>ten to <hi>Apollonius,</hi> where he ſhall find the Te<g ref="char:EOLhyphen"/>ſtimonies of <hi>Pindarus,</hi> and many others, alled<g ref="char:EOLhyphen"/>ged touching <hi>the State of the Godly in</hi> HADES.</q>
+            </p>
+            <p>Thus the word <hi>Hell</hi> imports as much as <hi>Hades,</hi> and <hi>Hades</hi> is the place <hi>of ſeparate Souls;</hi> whether in <hi>Bliſs,</hi> or <hi>Miſery,</hi> but whether you mean by <hi>Hell</hi> the place of <hi>Miſery,</hi> or <hi>Bliſs,</hi> is not clear. It's pro<g ref="char:EOLhyphen"/>bable, that as ſome <hi>Papiſts</hi> by <hi>Paradiſe,</hi> which is the third <hi>Heaven,</hi> underſtand <hi>Hell, ſo</hi> by <hi>Hell</hi> (as Doctor <hi>Biſhop</hi> falſely chargeth the generality of Proteſtants,) you really intend <hi>Heaven.</hi>
+            </p>
+            <p>Maſter <hi>Broughton</hi> (as the Arch-Biſhop intimates) has been too forward in owning this Opinion, which yet he might Defend, as what the words will bear, for Heaven it ſelf may be comprized within the Notion of <hi>Hades,</hi> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is rendred <hi>Deſcend,</hi> though Ten times uſed in the <hi>Acts</hi> of the <hi>Apoſtles,</hi> yet in none of all theſe places ſig<g ref="char:EOLhyphen"/>nifieth any Deſcending from a <hi>Higher</hi> place unto a <hi>Lower,</hi> but removing ſimply from one place to another.—I omit the Phraſes of Deſcending <hi>in Praelium, in Forum, in Campum, in Amicitiam, in Cauſam,</hi> &amp;c. So far the Arch-Biſhop.</p>
+            <p>But though the <hi>Greek</hi> in the Apoſtles Creed will bear this ſenſe yet the <hi>Article</hi> being in <hi>En<g ref="char:EOLhyphen"/>gliſh,</hi>
+               <pb n="22" facs="tcp:48602:14"/> unleſs by <hi>[Deſcending]</hi> we may underſtand <hi>[Aſcending]</hi> and by <hi>[Hell]</hi> we may underſtand <hi>[Heaven,]</hi> 'twill not be eaſie for you to faſten this ſenſe on the words; or to come more cloſe to your own way of ſpeaking, we may return your own Argument upon you. If by <hi>[went down]</hi> you mean <hi>[not went down]</hi> and if by <hi>[Hell]</hi> you mean <hi>[not Hell]</hi> we muſt better know what you mean before we ſubſcribe in your ſenſe, elſe you may make it lawful to ſubſcribe to any thing in the World, and ſay you mean better than you ſpeak.</p>
+            <p>That I take you right appears thus: When you ſpeak by way of Explication, that by Hell you mean the <hi>State of ſeparate Souls,</hi> all know that thoſe Souls thus ſeparated, muſt be Lodged ſomewhere, they muſt be either in <hi>Heaven,</hi> or in <hi>Hell,</hi> or in <hi>Limbo,</hi> or in <hi>Purgatory;</hi> and ſeeing 'twould be the greateſt abuſe to Inſinuate, that you hold any other Place af<g ref="char:EOLhyphen"/>ter this Life than Heaven, and Hell, you muſt be<g ref="char:EOLhyphen"/>lieve that as ſoon as Chriſt's Soul was ſeparated from His Body it went ſomewhere, it muſt be to one of theſe places.</p>
+            <p>If you had been of Opinion that it went to Hell, there had been no need of any Expoſition; your Naked ſubſcription, as unto an <hi>Article of Faith,</hi>
+               <pb n="23" facs="tcp:48602:14"/> wou'd import ſo much: The words are plain, <hi>[go<g ref="char:EOLhyphen"/>ing down into Hell; Deſcended into Hell,</hi> all know what <hi>[going down]</hi> meaneth, and all take <hi>[Hell]</hi> to ſignifie the place of the Damned. Thus it ſignified in <hi>Edward</hi> the Sixth his Days, as appears by the ad<g ref="char:EOLhyphen"/>ditional Clauſe, <hi>[For his Body lay in the Grave till the Reſurrection, but his</hi> Soul <hi>being</hi> ſeparate <hi>from his</hi> Body <hi>remained with the</hi> Spirits, <hi>which were detained in</hi> Priſon; <hi>that is to ſay, in Hell,</hi> and <hi>there Preached un<g ref="char:EOLhyphen"/>to them,</hi> as <hi>witneſſeth that Place of</hi> PETER,] ſo that the Words of our Article in <hi>Edward</hi> the Sixth's time were expreſſive of the <hi>Deſcent of Chriſts Soul into</hi> Hell, which, being retained by us ſtill, muſt be ſuppoſed to be in the <note n="*" place="margin">
+                  <hi>In the</hi> Synod <hi>in the days of Q.</hi> Elizabeth, <hi>the Ar<g ref="char:EOLhyphen"/>ticles, which continue ſtill in Force, deliver the Same Deſcent, but without any the leaſt Ex<g ref="char:EOLhyphen"/>plication, or Reference to any particular Place of Scripture. Biſhop</hi> Peir<g ref="char:EOLhyphen"/>ſons <hi>Expoſ. of the Creed,</hi> Ed. 4. p. 226.</note> 
+               <hi>Same ſenſe.</hi> The leaving out this Clauſe, only ſhew<g ref="char:EOLhyphen"/>eth, that we are not bound to believe that Chriſt went into Hell to <hi>Preach:</hi> But as <note n="†" place="margin">
+                  <hi>Of the Church.</hi> lib. 5. cap. 19.</note> Doctor <hi>Field,</hi> as thorough a Proteſtant, as any Diſſenter in <hi>England</hi> tells us: <q rend="inline">The end of Chriſts going down into the <hi>Hell of the Damned</hi> was only to faſten Condemnation to the Devils,
+<pb n="24" facs="tcp:48602:15"/> and his Angels to <note n="*" place="margin">
+                     <hi>Another Opinion hath ob<g ref="char:EOLhyphen"/>tained,</hi> eſpecially in our Church, <hi>that the end for which Chriſt</hi> Deſcended into Hell, <hi>was to Tri<g ref="char:EOLhyphen"/>umph over</hi> Satan, <hi>and all the Powers below within their own Dominions. Biſhop</hi> Peirſon ubi ſup. p. 247. See <hi>B.</hi> Bilſ. p. 294.</note> 
+                  <hi>Triumph over</hi> the Principalities of Darkneſs, to ſecure us from being ſurprized by them, and to prevent our going thither, not to fetch back any that were there al<g ref="char:EOLhyphen"/>ready.</q>
+            </p>
+            <p>But that Chriſt Deſcend<g ref="char:EOLhyphen"/>ed into the Hell of the Damned was generally received by Proteſtants, is aſſerted by this Doctor: And that others of our Church are of another Opi<g ref="char:EOLhyphen"/>nion I grant; but then it doth the more ſtrongly infer the neceſſity our Church lieth under of De<g ref="char:EOLhyphen"/>claring her ſenſe of it; and that until thus much be done, the ſafeſt way of Subſcription is as <hi>Chil<g ref="char:EOLhyphen"/>lingworth, Uſher,</hi> and <hi>Bramhall,</hi> affirm it to be. How<g ref="char:EOLhyphen"/>ever, let the Subſcription be after what manner ſoe<g ref="char:EOLhyphen"/>ver, it is manifeſt, that this Reverend Nonconforming Brother can never Subſcribe this one Article in his expounded ſenſe more honeſtly than we ſubſcribe all the reſt. And that notwithſtanding his ſeveri<g ref="char:EOLhyphen"/>ty againſt us for ſubſcribing the 4 <hi>Controverted Ar<g ref="char:EOLhyphen"/>ticles,</hi> the <hi>Liturgy, &amp;c.</hi> it's not over difficult to run him and his Brethren to the <hi>ſame ſtraits</hi> for ſubſcrib<g ref="char:EOLhyphen"/>ing 36, which he thinks he hath driven us unto,
+<pb n="25" facs="tcp:48602:15"/> by reaſon of our larger ſubſcription: We find as many Perplexities in thoſe Articles they ſubſcribe, as they can ſhew us in any they refuſe; and even in this one Article I doubt not but the more Learn<g ref="char:EOLhyphen"/>ed and thoughtful amongſt that Party, will ſee enough to <hi>Perplex</hi> them: The Learn<g ref="char:EOLhyphen"/>ed <hi>Arch-Biſhop</hi> was of Opinion that it <note place="margin">Uſher ubi ſup. p. 417.</note> was too <hi>Perplexing;</hi> 
+               <q rend="inline">To ſpeak the Truth (ſaith he) it is a matter above the reach of the common People to enter into the Diſcuſſion of the full meaning of this Point of the Deſcen<g ref="char:EOLhyphen"/>ſion into Hell;—He therefore leaves it to be conſidered by the Learned, whether any ſuch Controverted matter, may fitly be brought in, to expound the Rule of Faith by, which being common both to the Great and Small Ones in the Church, muſt contain ſuch verities only as are generally agreed upon by the common conſent of all True Chriſtians.</q>
+            </p>
+            <p>
+               <hi>Artic.</hi> 4. <q rend="inline">Chriſt took again his Body with Fleſh and Bones, and all things appertaining to the Perfection of Man's Nature, wherewith He Aſcended into Heaven and there ſitteth, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>The words of this Article are Plain, and eaſie enough to be underſtood, for what can <hi>[Fleſh, Bones,</hi> and <hi>all things Appertaining to the Perfection of</hi>
+               <pb n="26" facs="tcp:48602:16"/> 
+               <hi>Man's Nature]</hi> import leſs than what, (to uſe the School term) we call <hi>formally Fleſh,</hi> and <hi>Bones,</hi> and it's as clear that <hi>[herewith</hi> Chriſt <hi>Aſcended into Heaven</hi> and <hi>there he ſitteth,]</hi> ſo that there is no need of an <hi>Expoſition</hi> of this Article; where the <hi>Senſe</hi> is ſo evident we may immediately declare our <hi>Aſſent,</hi> or <hi>Diſſent:</hi> And this Reverend Brother inſtead of Explicating it, writes a confutation of it.</p>
+            <p>In your Preface you tell us, that <hi>you Subſcribe them,</hi> and <hi>that you may not be</hi> Unconſcionably Raſh <hi>in ſub<g ref="char:EOLhyphen"/>ſcribing,</hi> you <hi>here tell all whom it may concern,</hi> how <hi>you underſtand the words which you Subſcribe:</hi> And under this Article, which ſpeaks of formal Fleſh, and Bones you aſſure us, that the <hi>Body</hi> of Chriſt <hi>now in Heaven</hi> is not <hi>the ſame thing which we call</hi> formal<g ref="char:EOLhyphen"/>ly <hi>Fleſh,</hi> and <hi>Bones,</hi> your ſubſcription therefore muſt be in this ſenſe by <hi>[Fleſh]</hi> you mean <hi>[not Fleſh]</hi> by <hi>[Bones]</hi> you mean <hi>[not Bones]</hi> and ſo Subſcribe to this Part of the Article that <hi>Fleſh,</hi> and <hi>Bones</hi> are in Heaven: Whether any of our Church ever did, or can Subſcribe in a larger ſenſe, let the World Judge.</p>
+            <p>
+               <hi>Artic.</hi> 6. <q rend="inline">In the name of the Holy Scriptures, we underſtand thoſe Canonical Books of the <hi>Old</hi> and <hi>New Teſtament,</hi> of <hi>whoſe Authority</hi> was NEVER <hi>any doubt in the Church.</hi>
+               </q>
+            </p>
+            <pb n="27" facs="tcp:48602:16"/>
+            <p>Theſe words are as <hi>Excluſive</hi> as the wit of Man can Invent: What Books ſoever-therefore, of whoſe Au<g ref="char:EOLhyphen"/>thority there hath been any doubt in the Church, are by this Article ſhut out from the Number of Canonical Scriptures; and yet to this Article this Reverend Brother doth thus ſubſcribe.</p>
+            <q>Expoſ. <hi>Not excluding the Epiſtle to the</hi> Hebrews; James, 2 Peter, Jude, 2 and 3 John, Revelation, <hi>which divers Churches long doubted of.</hi>
+            </q>
+            <p>This Article excludes from the Canon all thoſe Books, of whoſe Authority there have been <hi>any doubt</hi> in the Church; and you ſubſcribe in a ſenſe, which excludes not every ſuch Book, ſo that by <hi>[Never]</hi> you mean <hi>[not Never]</hi> and in this ſenſe ſub<g ref="char:EOLhyphen"/>ſcribe.</p>
+            <p>If it be ſaid that all our Clergy do the ſame, I anſwer, we do not by ſubſcription <hi>Aſſent</hi> to every Article, we only Promiſe not to contradict them, waiting for the time in which the Church will Eſta<g ref="char:EOLhyphen"/>bliſh our ſenſe, or ſome other way give eaſe to the ſubſcriber: But this worthy Perſon, doth expoſe our diſtinction and ſubſcribes himſelf very <hi>ſtrictly</hi> by putting this looſe and contradictious ſenſe on the Article.</p>
+            <p>I could give many other inſtances of this Nature, but theſe are enough, and yet I cannot forbear ad<g ref="char:EOLhyphen"/>ding
+<pb n="28" facs="tcp:48602:17"/> one more, becauſe this great Man hath ſaid ſo much againſt it, and yet unawares ſubſcribed un<g ref="char:EOLhyphen"/>to it without an <hi>Expoſition.</hi>
+            </p>
+            <p>
+               <q rend="inline">The ſixth Point of our Non<g ref="char:EOLhyphen"/>conformity (ſaith he) is a New <note place="margin">
+                     <hi>The Engliſh Non<g ref="char:EOLhyphen"/>conformity.</hi> c. 9.</note> Article of Faith in theſe words, in the Rubrick which we muſt pro<g ref="char:EOLhyphen"/>feſs <hi>Aſſent</hi> and <hi>Conſent</hi> unto</q> 
+               <hi>[it is certain by the Word of God, that Children, which are Baptized, and Dying be<g ref="char:EOLhyphen"/>fore they Commit actual Sin, are undoubtedly Saved:</hi> This is a New Article, never made for us before 1662.</p>
+            <p>But wherein doth the <hi>New Article</hi> differ from this Aſſertion <hi>[That</hi> Infants <hi>being</hi> Baptized <hi>and</hi> Dying <hi>in their</hi> Infancy <hi>are by Chriſts Sacrifice waſhed from their Sins, brought to Gods Favour,</hi> and <hi>made his Children, and Inheritors of his Kingdom of Heaven.]</hi>
+            </p>
+            <p>Both theſe Articles ſpeak of <hi>Infants Baptized,</hi> and that <hi>Indefinitely,</hi> and of their <hi>Dying in</hi> their Infancy, or which is the ſame, before actual Sin is committed, and being waſhed from their Sins by Chriſt's Blood, brought to Gods Favour, made his Children, and Inheritors of his Kingdom of Heaven, ſignifie ſo much as that they ſhall be undoubtedly ſaved; theſe ſeveral expreſſions are a full Deſcription of Salva<g ref="char:EOLhyphen"/>tion; I can ſee then no difference <hi>de re</hi> between theſe two Articles, and how <hi>New</hi> ſoever the former may
+<pb n="29" facs="tcp:48602:17"/> be the latter is as Old as the Homilies of our Church, which our Clergy have ſubſcribed above an Hun<g ref="char:EOLhyphen"/>dred Years. And if we conſider in what <hi>Homily</hi> this Article is, and for what reaſon it is there inſerted, I am inclined to think, that on an enquiry this Re<g ref="char:EOLhyphen"/>verend Perſon, and the Diſſenting Miniſters will be found to have really ſubſcribed it.</p>
+            <p>It is in the <hi>Homily</hi> of <hi>Juſtification,</hi> and it is there inſerted as a ſpecial ground of the <hi>Comfortableneſs</hi> of that wholſom Doctrine; we will therefore conſult the <hi>11th Article,</hi> which refers to this <hi>Homily,</hi> and ſee how far thoſe, who ſubſcribe to this <hi>Article</hi> do thereby Aſſent unto the matter of this <hi>Homily.</hi>
+            </p>
+            <p>
+               <hi>Artic.</hi> 11. <q rend="inline">We are accounted Righteous before God, only for the Merit of our Lord and Saviour Jeſus Chriſt by Faith, and not for our own works; or deſervings.</q> 
+               <hi>Wherefore, that we are juſtified by Faith only,</hi> is <hi>a moſt</hi> WHOLESOM <hi>Doctrine, and</hi> VERY FULL OF COMFORT, <hi>as more</hi> LARGELY <hi>is</hi> EXPRESSED <hi>in the Homily of Juſtification.</hi>
+            </p>
+            <p>This Doctrine is a moſt wholeſom Doctrine, and VERY FULL OF COMFORT. But in what re<g ref="char:EOLhyphen"/>ſpects ſo comfortable, what are the grounds there<g ref="char:EOLhyphen"/>of?</p>
+            <p>That we may know in what reſpects, &amp; on what grounds, we are by the Article directed to the Ho<g ref="char:EOLhyphen"/>mily,
+<pb n="30" facs="tcp:48602:18"/> where it is <hi>thus more</hi> largely expreſſed: <q rend="inline">For the <hi>more full underſtanding</hi> the ſame it is our part to remember how that all the World being wrap<g ref="char:EOLhyphen"/>ped in ſin by breakin of the Law, God ſent his only Son, our Saviour Jeſus Chriſt into this World, to FULFILL THE LAW FOR US, and by ſhedding of his moſt Precious Blood, to make a Sacrifice and ſatisfaction; or, (as it may be cal<g ref="char:EOLhyphen"/>led) amends to his Father for our ſins, to aſſwage his Wrath and Indignation, conceived againſt us for the ſame: Inſomuch, that <hi>Infants being Bapti<g ref="char:EOLhyphen"/>zed,</hi> and <hi>Dying in their Infancy, are by this Sacrifice waſhed from their Sins, brought to Gods Favour, and made his Children,</hi> and <hi>Inheritors of his Kingdom of Heaven.</hi>
+               </q>
+            </p>
+            <p>Here then is the <hi>Article,</hi> and a part of the <hi>Homily;</hi> the Article holds, that the Doctrine of Juſtification is very full of comfort, as <hi>expreſſed more largely in the Homily:</hi> The <hi>Homily</hi> tells us, <hi>that for the more full un<g ref="char:EOLhyphen"/>derſtanding hereof</hi> we muſt remember how Chriſt has fulfilled the Law for us, made himſelf a Sacrifice, inſomuch that <hi>Baptized Infants Dying in their Infancy, ſhall by Chriſts Blood be waſhed from their Sins and ſaved.</hi> Now this is a very great ground of joy, and hereby the Doctrine of Juſtification is become the more a<g ref="char:EOLhyphen"/>bundantly comfortable; and by ſubſcribing to this
+<pb n="31" facs="tcp:48602:18"/> Article thus worded, we alſo ſubſcribe unto this Ho<g ref="char:EOLhyphen"/>mily, that is to ſay, as the Article is an <hi>Epitome</hi> of the Homily, and the Homily an <hi>Explanation</hi> of the Homily, and the Homily an <hi>Explanation</hi> of the Article in ſubſcribing to the former, we ſubſcribe to the Doctrine contained in the latter. In ſubſcribing to the Article we ſubſcribe to every Doctrine in this Homily, that ſets forth the comfortableneſs of Juſti<g ref="char:EOLhyphen"/>fication through Jeſus Chriſts Merits by Faith alone; and herein doth the Homily ſhew the comfortable<g ref="char:EOLhyphen"/>neſs of this Doctrine by aſſuring us that all our Chil<g ref="char:EOLhyphen"/>dren that have been Baptized, Dying in their Infan<g ref="char:EOLhyphen"/>cy, are ſaved: So that this Reverend N. Conform<g ref="char:EOLhyphen"/>ing Brother ſubſcribing to this part of the <hi>11th. Article,</hi> cloſes with the very Doctrine for which he ſo much condemns our Clergy.</p>
+            <p>I have inſiſted thus long on the ſubſcriptions of our Diſſenting Brethren, that whilſt we preſent our hum<g ref="char:EOLhyphen"/>ble ſupplications to the Convocation for Redreſs, they may ſee that there is no reaſon for their Re<g ref="char:EOLhyphen"/>proaching us with our ſubſcriptions.</p>
+            <p>That our Clergy, notwithſtanding their Unani<g ref="char:EOLhyphen"/>mous ſubſcribing the ſame Articles, have different thoughts about them, is not denied by any of us.</p>
+            <p>That this may be without falling under the Odi<g ref="char:EOLhyphen"/>ous Guilt of Equivocation and Mental Reſerves is cleared by the diſtinction there is between Articles
+<pb n="32" facs="tcp:48602:19"/> of Peace, and Articles of Faith. By ſubſcribing we think we are not obliged tobelieve them, but only not to contradict, or oppoſe them.</p>
+            <p>That this our ſenſe is not allowed by the Church is more than we dare be poſitive in. There are three great Worthies of our Communion who doubt it not; and we have oft in Publick-Prints declared our ſenſe without Rebuke or Controul; and if not<g ref="char:EOLhyphen"/>withſtanding, the Church is againſt our <hi>Senſe,</hi> we cannot be Cenſured for Equivocation, the utmoſt can be ſaid againſt us is, that we have miſtaken the Churches ſence, which is not ſo great a Crime as the declaring <hi>Aſſent</hi> to an Article when really we do not believe it to be true.</p>
+            <p>However, that there are difficulties attending our <hi>Way</hi> is yielded, and the Arguments againſt it ſo ſtrong, that on a Review, from a fear that our Subſcription ſignifies our <hi>Aſſent</hi> to every ſubſcribed Article, many Perplexities ariſe in our Minds: For which Reaſon, we do moſt Humbly beſeech both Houſes of Convoca<g ref="char:EOLhyphen"/>tion to take this Caſe into their Conſideration, that what in their Great Wiſdom they think meet for the Peace and Quiet of the Minds of many Godly and Learned Divines, True and Obedient Sons of the Church may in this matter be done.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
